@@ -1,0 +1,23 @@
+body{
+	background: white;
+	font-size: 14px;
+    line-height: 1.5em;
+    font-family: Arial,sans-serif;
+}
+.container {
+	width: 1140px;
+	margin: 0 auto;
+    border: 3px solid rgba(160, 160, 159, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 0;
+}
+header,p{
+	text-align: center;
+}
+.pic{
+width: 604px;
+margin:auto;
+}
+
+
+
