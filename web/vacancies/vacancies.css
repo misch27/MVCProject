@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
 body{
 	background: #edeef0;
-	margin:0px;
+	margin:0;
 	font-family:'Alegreya Sans', Arial,sans-serif;
 }
 header{
@@ -20,6 +20,23 @@ position: absolute;
 left:190px;
 top:2em;
 }
+.vacancy{
+    padding: 20px;
+    border: 1px solid #e7e7e7;
+    position: relative;
+    margin-top: -1px;
+    font-size: 14px;
+    line-height: 1.571;
+}
+.titleOfVacancies{
+    font-size: 22px;
+}
+.companyName{
+    color: #999;
+    font-size: 12px;
+}
+
+
 footer{
 
 position: fixed; 
